@@ -12,7 +12,7 @@ int main() {
     int população;
     float Área;
     int PIB;
-    int turisticos;
+    int turistico;
   // Área para entrada de dados
     printf("Digite o Estado");
     scanf('%c', &Estado);
